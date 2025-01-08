@@ -1,0 +1,781 @@
+REF_DATE,GEO,VALUE,Measure,Prescribed
+2022-03,"Halifax, Nova Scotia",123.94,Amphetamine,Unprescribed
+2022-04,"Halifax, Nova Scotia",100.76,Amphetamine,Unprescribed
+2022-05,"Halifax, Nova Scotia",88.36,Amphetamine,Unprescribed
+2022-06,"Halifax, Nova Scotia",79.28,Amphetamine,Unprescribed
+2022-07,"Halifax, Nova Scotia",101.18,Amphetamine,Unprescribed
+2022-08,"Halifax, Nova Scotia",73.52,Amphetamine,Unprescribed
+2022-09,"Halifax, Nova Scotia",95.6,Amphetamine,Unprescribed
+2022-10,"Halifax, Nova Scotia",143.44,Amphetamine,Unprescribed
+2022-11,"Halifax, Nova Scotia",164.48,Amphetamine,Unprescribed
+2022-12,"Halifax, Nova Scotia",94.58,Amphetamine,Unprescribed
+2023-01,"Halifax, Nova Scotia",91.84,Amphetamine,Unprescribed
+2023-03,"Halifax, Nova Scotia",98.1,Amphetamine,Unprescribed
+2023-05,"Halifax, Nova Scotia",101.7,Amphetamine,Unprescribed
+2022-03,"Halifax, Nova Scotia",758.48,Cannabis (THC-COOH),Prescribed
+2022-04,"Halifax, Nova Scotia",1062.04,Cannabis (THC-COOH),Prescribed
+2022-05,"Halifax, Nova Scotia",1056.56,Cannabis (THC-COOH),Prescribed
+2022-06,"Halifax, Nova Scotia",1082.3,Cannabis (THC-COOH),Prescribed
+2022-07,"Halifax, Nova Scotia",894.72,Cannabis (THC-COOH),Prescribed
+2022-08,"Halifax, Nova Scotia",977.66,Cannabis (THC-COOH),Prescribed
+2022-09,"Halifax, Nova Scotia",1155.66,Cannabis (THC-COOH),Prescribed
+2022-10,"Halifax, Nova Scotia",1164.52,Cannabis (THC-COOH),Prescribed
+2022-11,"Halifax, Nova Scotia",1029.2,Cannabis (THC-COOH),Prescribed
+2022-12,"Halifax, Nova Scotia",967.98,Cannabis (THC-COOH),Prescribed
+2023-01,"Halifax, Nova Scotia",899.04,Cannabis (THC-COOH),Prescribed
+2023-03,"Halifax, Nova Scotia",1094.62,Cannabis (THC-COOH),Prescribed
+2023-05,"Halifax, Nova Scotia",1023.18,Cannabis (THC-COOH),Prescribed
+2022-03,"Halifax, Nova Scotia",1307.56,Cocaine (Benzoylecgonine),Unprescribed
+2022-04,"Halifax, Nova Scotia",1296.06,Cocaine (Benzoylecgonine),Unprescribed
+2022-05,"Halifax, Nova Scotia",1357.36,Cocaine (Benzoylecgonine),Unprescribed
+2022-06,"Halifax, Nova Scotia",1305.36,Cocaine (Benzoylecgonine),Unprescribed
+2022-07,"Halifax, Nova Scotia",1198.04,Cocaine (Benzoylecgonine),Unprescribed
+2022-08,"Halifax, Nova Scotia",1194.32,Cocaine (Benzoylecgonine),Unprescribed
+2022-09,"Halifax, Nova Scotia",1350.4,Cocaine (Benzoylecgonine),Unprescribed
+2022-10,"Halifax, Nova Scotia",1282.46,Cocaine (Benzoylecgonine),Unprescribed
+2022-11,"Halifax, Nova Scotia",1357.86,Cocaine (Benzoylecgonine),Unprescribed
+2022-12,"Halifax, Nova Scotia",1607.14,Cocaine (Benzoylecgonine),Unprescribed
+2023-01,"Halifax, Nova Scotia",1278.5,Cocaine (Benzoylecgonine),Unprescribed
+2023-03,"Halifax, Nova Scotia",1411.44,Cocaine (Benzoylecgonine),Unprescribed
+2023-05,"Halifax, Nova Scotia",1495.9,Cocaine (Benzoylecgonine),Unprescribed
+2022-03,"Halifax, Nova Scotia",256.4,Codeine,Prescribed
+2022-04,"Halifax, Nova Scotia",256.04,Codeine,Prescribed
+2022-05,"Halifax, Nova Scotia",269.62,Codeine,Prescribed
+2022-06,"Halifax, Nova Scotia",267.52,Codeine,Prescribed
+2022-07,"Halifax, Nova Scotia",281.74,Codeine,Prescribed
+2022-08,"Halifax, Nova Scotia",285.44,Codeine,Prescribed
+2022-09,"Halifax, Nova Scotia",281.3,Codeine,Prescribed
+2022-10,"Halifax, Nova Scotia",274.32,Codeine,Prescribed
+2022-11,"Halifax, Nova Scotia",245.66,Codeine,Prescribed
+2022-12,"Halifax, Nova Scotia",237.74,Codeine,Prescribed
+2023-01,"Halifax, Nova Scotia",190.04,Codeine,Prescribed
+2023-03,"Halifax, Nova Scotia",227.52,Codeine,Prescribed
+2023-05,"Halifax, Nova Scotia",216.0,Codeine,Prescribed
+2022-03,"Halifax, Nova Scotia",9.64,Ecstasy (MDMA),Unprescribed
+2022-04,"Halifax, Nova Scotia",13.38,Ecstasy (MDMA),Unprescribed
+2022-05,"Halifax, Nova Scotia",16.22,Ecstasy (MDMA),Unprescribed
+2022-06,"Halifax, Nova Scotia",10.16,Ecstasy (MDMA),Unprescribed
+2022-07,"Halifax, Nova Scotia",25.8,Ecstasy (MDMA),Unprescribed
+2022-08,"Halifax, Nova Scotia",20.12,Ecstasy (MDMA),Unprescribed
+2022-09,"Halifax, Nova Scotia",18.96,Ecstasy (MDMA),Unprescribed
+2022-10,"Halifax, Nova Scotia",17.5,Ecstasy (MDMA),Unprescribed
+2022-11,"Halifax, Nova Scotia",11.58,Ecstasy (MDMA),Unprescribed
+2022-12,"Halifax, Nova Scotia",13.3,Ecstasy (MDMA),Unprescribed
+2023-01,"Halifax, Nova Scotia",5.34,Ecstasy (MDMA),Unprescribed
+2023-03,"Halifax, Nova Scotia",27.18,Ecstasy (MDMA),Unprescribed
+2023-05,"Halifax, Nova Scotia",13.3,Ecstasy (MDMA),Unprescribed
+2022-03,"Halifax, Nova Scotia",0.16,Fentanyl (Norfentanyl),Prescribed
+2022-04,"Halifax, Nova Scotia",0.14,Fentanyl (Norfentanyl),Prescribed
+2022-05,"Halifax, Nova Scotia",0.84,Fentanyl (Norfentanyl),Prescribed
+2022-06,"Halifax, Nova Scotia",0.14,Fentanyl (Norfentanyl),Prescribed
+2022-07,"Halifax, Nova Scotia",0.1,Fentanyl (Norfentanyl),Prescribed
+2022-08,"Halifax, Nova Scotia",0.1,Fentanyl (Norfentanyl),Prescribed
+2022-09,"Halifax, Nova Scotia",0.12,Fentanyl (Norfentanyl),Prescribed
+2022-10,"Halifax, Nova Scotia",0.18,Fentanyl (Norfentanyl),Prescribed
+2022-11,"Halifax, Nova Scotia",1.28,Fentanyl (Norfentanyl),Prescribed
+2022-12,"Halifax, Nova Scotia",0.16,Fentanyl (Norfentanyl),Prescribed
+2023-01,"Halifax, Nova Scotia",0.22,Fentanyl (Norfentanyl),Prescribed
+2023-03,"Halifax, Nova Scotia",0.12,Fentanyl (Norfentanyl),Prescribed
+2023-05,"Halifax, Nova Scotia",0.1,Fentanyl (Norfentanyl),Prescribed
+2022-03,"Halifax, Nova Scotia",33.4,Methadone,Prescribed
+2022-04,"Halifax, Nova Scotia",29.1,Methadone,Prescribed
+2022-05,"Halifax, Nova Scotia",27.58,Methadone,Prescribed
+2022-06,"Halifax, Nova Scotia",25.78,Methadone,Prescribed
+2022-07,"Halifax, Nova Scotia",27.56,Methadone,Prescribed
+2022-08,"Halifax, Nova Scotia",26.1,Methadone,Prescribed
+2022-09,"Halifax, Nova Scotia",30.22,Methadone,Prescribed
+2022-10,"Halifax, Nova Scotia",26.94,Methadone,Prescribed
+2022-11,"Halifax, Nova Scotia",28.5,Methadone,Prescribed
+2022-12,"Halifax, Nova Scotia",27.68,Methadone,Prescribed
+2023-01,"Halifax, Nova Scotia",15.22,Methadone,Prescribed
+2023-03,"Halifax, Nova Scotia",25.48,Methadone,Prescribed
+2023-05,"Halifax, Nova Scotia",22.36,Methadone,Prescribed
+2022-03,"Halifax, Nova Scotia",15.4,Methamphetamine,Unprescribed
+2022-04,"Halifax, Nova Scotia",19.64,Methamphetamine,Unprescribed
+2022-05,"Halifax, Nova Scotia",10.64,Methamphetamine,Unprescribed
+2022-06,"Halifax, Nova Scotia",25.36,Methamphetamine,Unprescribed
+2022-07,"Halifax, Nova Scotia",30.3,Methamphetamine,Unprescribed
+2022-08,"Halifax, Nova Scotia",32.94,Methamphetamine,Unprescribed
+2022-09,"Halifax, Nova Scotia",38.68,Methamphetamine,Unprescribed
+2022-10,"Halifax, Nova Scotia",26.74,Methamphetamine,Unprescribed
+2022-11,"Halifax, Nova Scotia",36.92,Methamphetamine,Unprescribed
+2022-12,"Halifax, Nova Scotia",22.14,Methamphetamine,Unprescribed
+2023-01,"Halifax, Nova Scotia",28.54,Methamphetamine,Unprescribed
+2023-03,"Halifax, Nova Scotia",31.84,Methamphetamine,Unprescribed
+2023-05,"Halifax, Nova Scotia",36.56,Methamphetamine,Unprescribed
+2022-03,"Halifax, Nova Scotia",120.8,Morphine,Prescribed
+2022-04,"Halifax, Nova Scotia",141.28,Morphine,Prescribed
+2022-05,"Halifax, Nova Scotia",153.34,Morphine,Prescribed
+2022-06,"Halifax, Nova Scotia",130.16,Morphine,Prescribed
+2022-07,"Halifax, Nova Scotia",136.66,Morphine,Prescribed
+2022-08,"Halifax, Nova Scotia",146.96,Morphine,Prescribed
+2022-09,"Halifax, Nova Scotia",154.4,Morphine,Prescribed
+2022-10,"Halifax, Nova Scotia",162.24,Morphine,Prescribed
+2022-11,"Halifax, Nova Scotia",151.18,Morphine,Prescribed
+2022-12,"Halifax, Nova Scotia",155.42,Morphine,Prescribed
+2023-01,"Halifax, Nova Scotia",117.1,Morphine,Prescribed
+2023-03,"Halifax, Nova Scotia",143.9,Morphine,Prescribed
+2023-05,"Halifax, Nova Scotia",148.26,Morphine,Prescribed
+2022-03,"Halifax, Nova Scotia",3.12,Oxycodone,Prescribed
+2022-04,"Halifax, Nova Scotia",5.34,Oxycodone,Prescribed
+2022-05,"Halifax, Nova Scotia",5.7,Oxycodone,Prescribed
+2022-06,"Halifax, Nova Scotia",6.1,Oxycodone,Prescribed
+2022-07,"Halifax, Nova Scotia",7.22,Oxycodone,Prescribed
+2022-08,"Halifax, Nova Scotia",6.8,Oxycodone,Prescribed
+2022-09,"Halifax, Nova Scotia",5.58,Oxycodone,Prescribed
+2022-10,"Halifax, Nova Scotia",4.06,Oxycodone,Prescribed
+2022-11,"Halifax, Nova Scotia",5.98,Oxycodone,Prescribed
+2022-12,"Halifax, Nova Scotia",5.28,Oxycodone,Prescribed
+2023-01,"Halifax, Nova Scotia",2.86,Oxycodone,Prescribed
+2023-03,"Halifax, Nova Scotia",5.38,Oxycodone,Prescribed
+2023-05,"Halifax, Nova Scotia",3.8,Oxycodone,Prescribed
+2022-03,"Montreal, Quebec",127.12,Amphetamine,Unprescribed
+2022-04,"Montreal, Quebec",159.62,Amphetamine,Unprescribed
+2022-05,"Montreal, Quebec",114.34,Amphetamine,Unprescribed
+2022-06,"Montreal, Quebec",315.7,Amphetamine,Unprescribed
+2022-07,"Montreal, Quebec",76.96,Amphetamine,Unprescribed
+2022-08,"Montreal, Quebec",108.58,Amphetamine,Unprescribed
+2022-09,"Montreal, Quebec",135.34,Amphetamine,Unprescribed
+2022-10,"Montreal, Quebec",198.16,Amphetamine,Unprescribed
+2022-11,"Montreal, Quebec",122.96,Amphetamine,Unprescribed
+2022-12,"Montreal, Quebec",139.12,Amphetamine,Unprescribed
+2023-01,"Montreal, Quebec",77.64,Amphetamine,Unprescribed
+2023-03,"Montreal, Quebec",61.9,Amphetamine,Unprescribed
+2023-05,"Montreal, Quebec",228.84,Amphetamine,Unprescribed
+2022-03,"Montreal, Quebec",252.12,Cannabis (THC-COOH),Prescribed
+2022-04,"Montreal, Quebec",294.64,Cannabis (THC-COOH),Prescribed
+2022-05,"Montreal, Quebec",379.82,Cannabis (THC-COOH),Prescribed
+2022-06,"Montreal, Quebec",410.5,Cannabis (THC-COOH),Prescribed
+2022-07,"Montreal, Quebec",339.56,Cannabis (THC-COOH),Prescribed
+2022-08,"Montreal, Quebec",331.62,Cannabis (THC-COOH),Prescribed
+2022-09,"Montreal, Quebec",342.54,Cannabis (THC-COOH),Prescribed
+2022-10,"Montreal, Quebec",401.68,Cannabis (THC-COOH),Prescribed
+2022-11,"Montreal, Quebec",337.88,Cannabis (THC-COOH),Prescribed
+2022-12,"Montreal, Quebec",323.08,Cannabis (THC-COOH),Prescribed
+2023-01,"Montreal, Quebec",339.12,Cannabis (THC-COOH),Prescribed
+2023-03,"Montreal, Quebec",338.72,Cannabis (THC-COOH),Prescribed
+2023-05,"Montreal, Quebec",317.62,Cannabis (THC-COOH),Prescribed
+2022-03,"Montreal, Quebec",1102.84,Cocaine (Benzoylecgonine),Unprescribed
+2022-04,"Montreal, Quebec",1202.44,Cocaine (Benzoylecgonine),Unprescribed
+2022-05,"Montreal, Quebec",1317.8,Cocaine (Benzoylecgonine),Unprescribed
+2022-06,"Montreal, Quebec",1391.64,Cocaine (Benzoylecgonine),Unprescribed
+2022-07,"Montreal, Quebec",1089.24,Cocaine (Benzoylecgonine),Unprescribed
+2022-08,"Montreal, Quebec",1129.24,Cocaine (Benzoylecgonine),Unprescribed
+2022-09,"Montreal, Quebec",1172.26,Cocaine (Benzoylecgonine),Unprescribed
+2022-10,"Montreal, Quebec",1349.26,Cocaine (Benzoylecgonine),Unprescribed
+2022-11,"Montreal, Quebec",1205.14,Cocaine (Benzoylecgonine),Unprescribed
+2022-12,"Montreal, Quebec",1309.7,Cocaine (Benzoylecgonine),Unprescribed
+2023-01,"Montreal, Quebec",1133.4,Cocaine (Benzoylecgonine),Unprescribed
+2023-03,"Montreal, Quebec",1239.44,Cocaine (Benzoylecgonine),Unprescribed
+2023-05,"Montreal, Quebec",1314.58,Cocaine (Benzoylecgonine),Unprescribed
+2022-03,"Montreal, Quebec",16.52,Codeine,Prescribed
+2022-04,"Montreal, Quebec",18.3,Codeine,Prescribed
+2022-05,"Montreal, Quebec",35.4,Codeine,Prescribed
+2022-06,"Montreal, Quebec",37.64,Codeine,Prescribed
+2022-07,"Montreal, Quebec",33.12,Codeine,Prescribed
+2022-08,"Montreal, Quebec",37.16,Codeine,Prescribed
+2022-09,"Montreal, Quebec",41.58,Codeine,Prescribed
+2022-10,"Montreal, Quebec",37.28,Codeine,Prescribed
+2022-11,"Montreal, Quebec",25.66,Codeine,Prescribed
+2022-12,"Montreal, Quebec",36.5,Codeine,Prescribed
+2023-01,"Montreal, Quebec",28.3,Codeine,Prescribed
+2023-03,"Montreal, Quebec",21.26,Codeine,Prescribed
+2023-05,"Montreal, Quebec",23.78,Codeine,Prescribed
+2022-03,"Montreal, Quebec",13.46,Ecstasy (MDMA),Unprescribed
+2022-04,"Montreal, Quebec",13.5,Ecstasy (MDMA),Unprescribed
+2022-05,"Montreal, Quebec",16.32,Ecstasy (MDMA),Unprescribed
+2022-06,"Montreal, Quebec",19.26,Ecstasy (MDMA),Unprescribed
+2022-07,"Montreal, Quebec",15.98,Ecstasy (MDMA),Unprescribed
+2022-08,"Montreal, Quebec",46.06,Ecstasy (MDMA),Unprescribed
+2022-09,"Montreal, Quebec",27.64,Ecstasy (MDMA),Unprescribed
+2022-10,"Montreal, Quebec",37.48,Ecstasy (MDMA),Unprescribed
+2022-11,"Montreal, Quebec",53.0,Ecstasy (MDMA),Unprescribed
+2022-12,"Montreal, Quebec",30.12,Ecstasy (MDMA),Unprescribed
+2023-01,"Montreal, Quebec",19.62,Ecstasy (MDMA),Unprescribed
+2023-03,"Montreal, Quebec",29.7,Ecstasy (MDMA),Unprescribed
+2023-05,"Montreal, Quebec",53.46,Ecstasy (MDMA),Unprescribed
+2022-03,"Montreal, Quebec",0.32,Fentanyl (Norfentanyl),Prescribed
+2022-04,"Montreal, Quebec",0.28,Fentanyl (Norfentanyl),Prescribed
+2022-05,"Montreal, Quebec",0.18,Fentanyl (Norfentanyl),Prescribed
+2022-06,"Montreal, Quebec",0.24,Fentanyl (Norfentanyl),Prescribed
+2022-07,"Montreal, Quebec",0.16,Fentanyl (Norfentanyl),Prescribed
+2022-08,"Montreal, Quebec",0.2,Fentanyl (Norfentanyl),Prescribed
+2022-09,"Montreal, Quebec",0.2,Fentanyl (Norfentanyl),Prescribed
+2022-10,"Montreal, Quebec",0.18,Fentanyl (Norfentanyl),Prescribed
+2022-11,"Montreal, Quebec",0.18,Fentanyl (Norfentanyl),Prescribed
+2022-12,"Montreal, Quebec",0.16,Fentanyl (Norfentanyl),Prescribed
+2023-01,"Montreal, Quebec",0.16,Fentanyl (Norfentanyl),Prescribed
+2023-03,"Montreal, Quebec",0.16,Fentanyl (Norfentanyl),Prescribed
+2023-05,"Montreal, Quebec",0.18,Fentanyl (Norfentanyl),Prescribed
+2022-03,"Montreal, Quebec",6.42,Methadone,Prescribed
+2022-04,"Montreal, Quebec",3.24,Methadone,Prescribed
+2022-05,"Montreal, Quebec",9.0,Methadone,Prescribed
+2022-06,"Montreal, Quebec",7.7,Methadone,Prescribed
+2022-07,"Montreal, Quebec",6.86,Methadone,Prescribed
+2022-08,"Montreal, Quebec",5.16,Methadone,Prescribed
+2022-09,"Montreal, Quebec",7.0,Methadone,Prescribed
+2022-10,"Montreal, Quebec",9.48,Methadone,Prescribed
+2022-11,"Montreal, Quebec",9.54,Methadone,Prescribed
+2022-12,"Montreal, Quebec",8.3,Methadone,Prescribed
+2023-01,"Montreal, Quebec",3.86,Methadone,Prescribed
+2023-03,"Montreal, Quebec",2.5,Methadone,Prescribed
+2023-05,"Montreal, Quebec",4.4,Methadone,Prescribed
+2022-03,"Montreal, Quebec",179.84,Methamphetamine,Unprescribed
+2022-04,"Montreal, Quebec",197.98,Methamphetamine,Unprescribed
+2022-05,"Montreal, Quebec",217.04,Methamphetamine,Unprescribed
+2022-06,"Montreal, Quebec",256.28,Methamphetamine,Unprescribed
+2022-07,"Montreal, Quebec",192.44,Methamphetamine,Unprescribed
+2022-08,"Montreal, Quebec",201.72,Methamphetamine,Unprescribed
+2022-09,"Montreal, Quebec",243.24,Methamphetamine,Unprescribed
+2022-10,"Montreal, Quebec",210.66,Methamphetamine,Unprescribed
+2022-11,"Montreal, Quebec",201.9,Methamphetamine,Unprescribed
+2022-12,"Montreal, Quebec",211.3,Methamphetamine,Unprescribed
+2023-01,"Montreal, Quebec",187.5,Methamphetamine,Unprescribed
+2023-03,"Montreal, Quebec",165.9,Methamphetamine,Unprescribed
+2023-05,"Montreal, Quebec",196.28,Methamphetamine,Unprescribed
+2022-03,"Montreal, Quebec",42.18,Morphine,Prescribed
+2022-04,"Montreal, Quebec",45.54,Morphine,Prescribed
+2022-05,"Montreal, Quebec",59.2,Morphine,Prescribed
+2022-06,"Montreal, Quebec",57.9,Morphine,Prescribed
+2022-07,"Montreal, Quebec",48.5,Morphine,Prescribed
+2022-08,"Montreal, Quebec",54.46,Morphine,Prescribed
+2022-09,"Montreal, Quebec",55.96,Morphine,Prescribed
+2022-10,"Montreal, Quebec",65.4,Morphine,Prescribed
+2022-11,"Montreal, Quebec",57.78,Morphine,Prescribed
+2022-12,"Montreal, Quebec",61.1,Morphine,Prescribed
+2023-01,"Montreal, Quebec",56.92,Morphine,Prescribed
+2023-03,"Montreal, Quebec",51.22,Morphine,Prescribed
+2023-05,"Montreal, Quebec",60.26,Morphine,Prescribed
+2022-03,"Montreal, Quebec",3.06,Oxycodone,Prescribed
+2022-04,"Montreal, Quebec",2.34,Oxycodone,Prescribed
+2022-05,"Montreal, Quebec",1.44,Oxycodone,Prescribed
+2022-06,"Montreal, Quebec",1.98,Oxycodone,Prescribed
+2022-07,"Montreal, Quebec",1.4,Oxycodone,Prescribed
+2022-08,"Montreal, Quebec",1.6,Oxycodone,Prescribed
+2022-09,"Montreal, Quebec",1.76,Oxycodone,Prescribed
+2022-10,"Montreal, Quebec",1.46,Oxycodone,Prescribed
+2022-11,"Montreal, Quebec",1.44,Oxycodone,Prescribed
+2022-12,"Montreal, Quebec",1.32,Oxycodone,Prescribed
+2023-01,"Montreal, Quebec",1.4,Oxycodone,Prescribed
+2023-03,"Montreal, Quebec",1.36,Oxycodone,Prescribed
+2023-05,"Montreal, Quebec",1.82,Oxycodone,Prescribed
+2022-03,"Toronto, Ontario",100.48,Amphetamine,Unprescribed
+2022-04,"Toronto, Ontario",59.18,Amphetamine,Unprescribed
+2022-05,"Toronto, Ontario",114.78,Amphetamine,Unprescribed
+2022-06,"Toronto, Ontario",259.2,Amphetamine,Unprescribed
+2022-07,"Toronto, Ontario",178.9,Amphetamine,Unprescribed
+2022-08,"Toronto, Ontario",105.62,Amphetamine,Unprescribed
+2022-09,"Toronto, Ontario",136.7,Amphetamine,Unprescribed
+2022-10,"Toronto, Ontario",199.54,Amphetamine,Unprescribed
+2022-11,"Toronto, Ontario",90.12,Amphetamine,Unprescribed
+2022-12,"Toronto, Ontario",132.44,Amphetamine,Unprescribed
+2023-01,"Toronto, Ontario",55.58,Amphetamine,Unprescribed
+2023-03,"Toronto, Ontario",48.84,Amphetamine,Unprescribed
+2023-05,"Toronto, Ontario",48.26,Amphetamine,Unprescribed
+2022-03,"Toronto, Ontario",316.84,Cannabis (THC-COOH),Prescribed
+2022-04,"Toronto, Ontario",380.8,Cannabis (THC-COOH),Prescribed
+2022-05,"Toronto, Ontario",370.28,Cannabis (THC-COOH),Prescribed
+2022-06,"Toronto, Ontario",438.28,Cannabis (THC-COOH),Prescribed
+2022-07,"Toronto, Ontario",435.6,Cannabis (THC-COOH),Prescribed
+2022-08,"Toronto, Ontario",435.1,Cannabis (THC-COOH),Prescribed
+2022-09,"Toronto, Ontario",327.88,Cannabis (THC-COOH),Prescribed
+2022-10,"Toronto, Ontario",403.48,Cannabis (THC-COOH),Prescribed
+2022-11,"Toronto, Ontario",319.42,Cannabis (THC-COOH),Prescribed
+2022-12,"Toronto, Ontario",397.36,Cannabis (THC-COOH),Prescribed
+2023-01,"Toronto, Ontario",366.24,Cannabis (THC-COOH),Prescribed
+2023-03,"Toronto, Ontario",413.9,Cannabis (THC-COOH),Prescribed
+2023-05,"Toronto, Ontario",407.96,Cannabis (THC-COOH),Prescribed
+2022-03,"Toronto, Ontario",959.12,Cocaine (Benzoylecgonine),Unprescribed
+2022-04,"Toronto, Ontario",935.46,Cocaine (Benzoylecgonine),Unprescribed
+2022-05,"Toronto, Ontario",921.88,Cocaine (Benzoylecgonine),Unprescribed
+2022-06,"Toronto, Ontario",937.6,Cocaine (Benzoylecgonine),Unprescribed
+2022-07,"Toronto, Ontario",1052.84,Cocaine (Benzoylecgonine),Unprescribed
+2022-08,"Toronto, Ontario",984.98,Cocaine (Benzoylecgonine),Unprescribed
+2022-09,"Toronto, Ontario",662.5,Cocaine (Benzoylecgonine),Unprescribed
+2022-10,"Toronto, Ontario",822.94,Cocaine (Benzoylecgonine),Unprescribed
+2022-11,"Toronto, Ontario",666.86,Cocaine (Benzoylecgonine),Unprescribed
+2022-12,"Toronto, Ontario",953.54,Cocaine (Benzoylecgonine),Unprescribed
+2023-01,"Toronto, Ontario",906.32,Cocaine (Benzoylecgonine),Unprescribed
+2023-03,"Toronto, Ontario",985.18,Cocaine (Benzoylecgonine),Unprescribed
+2023-05,"Toronto, Ontario",992.54,Cocaine (Benzoylecgonine),Unprescribed
+2022-03,"Toronto, Ontario",176.44,Codeine,Prescribed
+2022-04,"Toronto, Ontario",202.02,Codeine,Prescribed
+2022-05,"Toronto, Ontario",189.08,Codeine,Prescribed
+2022-06,"Toronto, Ontario",196.26,Codeine,Prescribed
+2022-07,"Toronto, Ontario",195.48,Codeine,Prescribed
+2022-08,"Toronto, Ontario",187.02,Codeine,Prescribed
+2022-09,"Toronto, Ontario",135.54,Codeine,Prescribed
+2022-10,"Toronto, Ontario",167.48,Codeine,Prescribed
+2022-11,"Toronto, Ontario",126.36,Codeine,Prescribed
+2022-12,"Toronto, Ontario",172.18,Codeine,Prescribed
+2023-01,"Toronto, Ontario",161.44,Codeine,Prescribed
+2023-03,"Toronto, Ontario",183.2,Codeine,Prescribed
+2023-05,"Toronto, Ontario",168.8,Codeine,Prescribed
+2022-03,"Toronto, Ontario",22.06,Ecstasy (MDMA),Unprescribed
+2022-04,"Toronto, Ontario",27.36,Ecstasy (MDMA),Unprescribed
+2022-05,"Toronto, Ontario",19.24,Ecstasy (MDMA),Unprescribed
+2022-06,"Toronto, Ontario",17.44,Ecstasy (MDMA),Unprescribed
+2022-07,"Toronto, Ontario",21.08,Ecstasy (MDMA),Unprescribed
+2022-08,"Toronto, Ontario",34.3,Ecstasy (MDMA),Unprescribed
+2022-09,"Toronto, Ontario",18.08,Ecstasy (MDMA),Unprescribed
+2022-10,"Toronto, Ontario",22.56,Ecstasy (MDMA),Unprescribed
+2022-11,"Toronto, Ontario",30.84,Ecstasy (MDMA),Unprescribed
+2022-12,"Toronto, Ontario",28.4,Ecstasy (MDMA),Unprescribed
+2023-01,"Toronto, Ontario",22.6,Ecstasy (MDMA),Unprescribed
+2023-03,"Toronto, Ontario",25.42,Ecstasy (MDMA),Unprescribed
+2023-05,"Toronto, Ontario",19.76,Ecstasy (MDMA),Unprescribed
+2022-03,"Toronto, Ontario",5.18,Fentanyl (Norfentanyl),Prescribed
+2022-04,"Toronto, Ontario",7.38,Fentanyl (Norfentanyl),Prescribed
+2022-05,"Toronto, Ontario",5.02,Fentanyl (Norfentanyl),Prescribed
+2022-06,"Toronto, Ontario",6.2,Fentanyl (Norfentanyl),Prescribed
+2022-07,"Toronto, Ontario",9.42,Fentanyl (Norfentanyl),Prescribed
+2022-08,"Toronto, Ontario",7.8,Fentanyl (Norfentanyl),Prescribed
+2022-09,"Toronto, Ontario",4.16,Fentanyl (Norfentanyl),Prescribed
+2022-10,"Toronto, Ontario",5.12,Fentanyl (Norfentanyl),Prescribed
+2022-11,"Toronto, Ontario",4.06,Fentanyl (Norfentanyl),Prescribed
+2022-12,"Toronto, Ontario",4.84,Fentanyl (Norfentanyl),Prescribed
+2023-01,"Toronto, Ontario",2.58,Fentanyl (Norfentanyl),Prescribed
+2023-03,"Toronto, Ontario",3.54,Fentanyl (Norfentanyl),Prescribed
+2023-05,"Toronto, Ontario",3.24,Fentanyl (Norfentanyl),Prescribed
+2022-03,"Toronto, Ontario",22.54,Methadone,Prescribed
+2022-04,"Toronto, Ontario",18.52,Methadone,Prescribed
+2022-05,"Toronto, Ontario",18.32,Methadone,Prescribed
+2022-06,"Toronto, Ontario",17.48,Methadone,Prescribed
+2022-07,"Toronto, Ontario",17.32,Methadone,Prescribed
+2022-08,"Toronto, Ontario",21.12,Methadone,Prescribed
+2022-09,"Toronto, Ontario",12.42,Methadone,Prescribed
+2022-10,"Toronto, Ontario",15.7,Methadone,Prescribed
+2022-11,"Toronto, Ontario",12.68,Methadone,Prescribed
+2022-12,"Toronto, Ontario",15.88,Methadone,Prescribed
+2023-01,"Toronto, Ontario",14.2,Methadone,Prescribed
+2023-03,"Toronto, Ontario",16.0,Methadone,Prescribed
+2023-05,"Toronto, Ontario",16.68,Methadone,Prescribed
+2022-03,"Toronto, Ontario",205.16,Methamphetamine,Unprescribed
+2022-04,"Toronto, Ontario",200.08,Methamphetamine,Unprescribed
+2022-05,"Toronto, Ontario",182.24,Methamphetamine,Unprescribed
+2022-06,"Toronto, Ontario",198.0,Methamphetamine,Unprescribed
+2022-07,"Toronto, Ontario",207.18,Methamphetamine,Unprescribed
+2022-08,"Toronto, Ontario",177.8,Methamphetamine,Unprescribed
+2022-09,"Toronto, Ontario",124.82,Methamphetamine,Unprescribed
+2022-10,"Toronto, Ontario",186.26,Methamphetamine,Unprescribed
+2022-11,"Toronto, Ontario",138.82,Methamphetamine,Unprescribed
+2022-12,"Toronto, Ontario",218.06,Methamphetamine,Unprescribed
+2023-01,"Toronto, Ontario",184.6,Methamphetamine,Unprescribed
+2023-03,"Toronto, Ontario",191.16,Methamphetamine,Unprescribed
+2023-05,"Toronto, Ontario",186.52,Methamphetamine,Unprescribed
+2022-03,"Toronto, Ontario",68.32,Morphine,Prescribed
+2022-04,"Toronto, Ontario",83.06,Morphine,Prescribed
+2022-05,"Toronto, Ontario",77.96,Morphine,Prescribed
+2022-06,"Toronto, Ontario",84.98,Morphine,Prescribed
+2022-07,"Toronto, Ontario",85.4,Morphine,Prescribed
+2022-08,"Toronto, Ontario",89.78,Morphine,Prescribed
+2022-09,"Toronto, Ontario",53.9,Morphine,Prescribed
+2022-10,"Toronto, Ontario",69.94,Morphine,Prescribed
+2022-11,"Toronto, Ontario",62.64,Morphine,Prescribed
+2022-12,"Toronto, Ontario",82.02,Morphine,Prescribed
+2023-01,"Toronto, Ontario",80.02,Morphine,Prescribed
+2023-03,"Toronto, Ontario",76.78,Morphine,Prescribed
+2023-05,"Toronto, Ontario",78.9,Morphine,Prescribed
+2022-03,"Toronto, Ontario",8.18,Oxycodone,Prescribed
+2022-04,"Toronto, Ontario",9.9,Oxycodone,Prescribed
+2022-05,"Toronto, Ontario",11.88,Oxycodone,Prescribed
+2022-06,"Toronto, Ontario",8.46,Oxycodone,Prescribed
+2022-07,"Toronto, Ontario",11.4,Oxycodone,Prescribed
+2022-08,"Toronto, Ontario",15.62,Oxycodone,Prescribed
+2022-09,"Toronto, Ontario",10.08,Oxycodone,Prescribed
+2022-10,"Toronto, Ontario",12.08,Oxycodone,Prescribed
+2022-11,"Toronto, Ontario",11.12,Oxycodone,Prescribed
+2022-12,"Toronto, Ontario",13.34,Oxycodone,Prescribed
+2023-01,"Toronto, Ontario",11.1,Oxycodone,Prescribed
+2023-03,"Toronto, Ontario",17.22,Oxycodone,Prescribed
+2023-05,"Toronto, Ontario",12.56,Oxycodone,Prescribed
+2022-03,"Prince Albert, Saskatchewan",172.72,Amphetamine,Unprescribed
+2022-04,"Prince Albert, Saskatchewan",195.76,Amphetamine,Unprescribed
+2022-05,"Prince Albert, Saskatchewan",182.88,Amphetamine,Unprescribed
+2022-06,"Prince Albert, Saskatchewan",158.52,Amphetamine,Unprescribed
+2022-07,"Prince Albert, Saskatchewan",112.62,Amphetamine,Unprescribed
+2022-08,"Prince Albert, Saskatchewan",173.02,Amphetamine,Unprescribed
+2022-09,"Prince Albert, Saskatchewan",163.66,Amphetamine,Unprescribed
+2022-10,"Prince Albert, Saskatchewan",142.46,Amphetamine,Unprescribed
+2022-11,"Prince Albert, Saskatchewan",173.26,Amphetamine,Unprescribed
+2022-12,"Prince Albert, Saskatchewan",263.92,Amphetamine,Unprescribed
+2023-01,"Prince Albert, Saskatchewan",180.26,Amphetamine,Unprescribed
+2023-03,"Prince Albert, Saskatchewan",170.62,Amphetamine,Unprescribed
+2023-05,"Prince Albert, Saskatchewan",168.24,Amphetamine,Unprescribed
+2022-03,"Prince Albert, Saskatchewan",720.28,Cannabis (THC-COOH),Prescribed
+2022-04,"Prince Albert, Saskatchewan",889.04,Cannabis (THC-COOH),Prescribed
+2022-05,"Prince Albert, Saskatchewan",920.74,Cannabis (THC-COOH),Prescribed
+2022-06,"Prince Albert, Saskatchewan",951.3,Cannabis (THC-COOH),Prescribed
+2022-07,"Prince Albert, Saskatchewan",735.52,Cannabis (THC-COOH),Prescribed
+2022-08,"Prince Albert, Saskatchewan",859.5,Cannabis (THC-COOH),Prescribed
+2022-09,"Prince Albert, Saskatchewan",834.2,Cannabis (THC-COOH),Prescribed
+2022-10,"Prince Albert, Saskatchewan",832.76,Cannabis (THC-COOH),Prescribed
+2022-11,"Prince Albert, Saskatchewan",678.88,Cannabis (THC-COOH),Prescribed
+2022-12,"Prince Albert, Saskatchewan",910.44,Cannabis (THC-COOH),Prescribed
+2023-01,"Prince Albert, Saskatchewan",656.66,Cannabis (THC-COOH),Prescribed
+2023-03,"Prince Albert, Saskatchewan",742.8,Cannabis (THC-COOH),Prescribed
+2023-05,"Prince Albert, Saskatchewan",1033.06,Cannabis (THC-COOH),Prescribed
+2022-03,"Prince Albert, Saskatchewan",1032.62,Cocaine (Benzoylecgonine),Unprescribed
+2022-04,"Prince Albert, Saskatchewan",1418.76,Cocaine (Benzoylecgonine),Unprescribed
+2022-05,"Prince Albert, Saskatchewan",1642.2,Cocaine (Benzoylecgonine),Unprescribed
+2022-06,"Prince Albert, Saskatchewan",1329.14,Cocaine (Benzoylecgonine),Unprescribed
+2022-07,"Prince Albert, Saskatchewan",1144.12,Cocaine (Benzoylecgonine),Unprescribed
+2022-08,"Prince Albert, Saskatchewan",1438.78,Cocaine (Benzoylecgonine),Unprescribed
+2022-09,"Prince Albert, Saskatchewan",1291.8,Cocaine (Benzoylecgonine),Unprescribed
+2022-10,"Prince Albert, Saskatchewan",1131.16,Cocaine (Benzoylecgonine),Unprescribed
+2022-11,"Prince Albert, Saskatchewan",1460.28,Cocaine (Benzoylecgonine),Unprescribed
+2022-12,"Prince Albert, Saskatchewan",2212.6,Cocaine (Benzoylecgonine),Unprescribed
+2023-01,"Prince Albert, Saskatchewan",1681.44,Cocaine (Benzoylecgonine),Unprescribed
+2023-03,"Prince Albert, Saskatchewan",1717.12,Cocaine (Benzoylecgonine),Unprescribed
+2023-05,"Prince Albert, Saskatchewan",1999.78,Cocaine (Benzoylecgonine),Unprescribed
+2022-03,"Prince Albert, Saskatchewan",439.34,Codeine,Prescribed
+2022-04,"Prince Albert, Saskatchewan",545.34,Codeine,Prescribed
+2022-05,"Prince Albert, Saskatchewan",674.68,Codeine,Prescribed
+2022-06,"Prince Albert, Saskatchewan",619.86,Codeine,Prescribed
+2022-07,"Prince Albert, Saskatchewan",613.7,Codeine,Prescribed
+2022-08,"Prince Albert, Saskatchewan",644.28,Codeine,Prescribed
+2022-09,"Prince Albert, Saskatchewan",561.94,Codeine,Prescribed
+2022-10,"Prince Albert, Saskatchewan",566.14,Codeine,Prescribed
+2022-11,"Prince Albert, Saskatchewan",472.72,Codeine,Prescribed
+2022-12,"Prince Albert, Saskatchewan",635.34,Codeine,Prescribed
+2023-01,"Prince Albert, Saskatchewan",541.84,Codeine,Prescribed
+2023-03,"Prince Albert, Saskatchewan",471.98,Codeine,Prescribed
+2023-05,"Prince Albert, Saskatchewan",571.84,Codeine,Prescribed
+2022-03,"Prince Albert, Saskatchewan",9.74,Ecstasy (MDMA),Unprescribed
+2022-04,"Prince Albert, Saskatchewan",15.14,Ecstasy (MDMA),Unprescribed
+2022-05,"Prince Albert, Saskatchewan",3.4,Ecstasy (MDMA),Unprescribed
+2022-06,"Prince Albert, Saskatchewan",7.14,Ecstasy (MDMA),Unprescribed
+2022-07,"Prince Albert, Saskatchewan",13.24,Ecstasy (MDMA),Unprescribed
+2022-08,"Prince Albert, Saskatchewan",8.26,Ecstasy (MDMA),Unprescribed
+2022-09,"Prince Albert, Saskatchewan",7.18,Ecstasy (MDMA),Unprescribed
+2022-10,"Prince Albert, Saskatchewan",5.7,Ecstasy (MDMA),Unprescribed
+2022-11,"Prince Albert, Saskatchewan",3.06,Ecstasy (MDMA),Unprescribed
+2022-12,"Prince Albert, Saskatchewan",0.6,Ecstasy (MDMA),Unprescribed
+2023-01,"Prince Albert, Saskatchewan",14.26,Ecstasy (MDMA),Unprescribed
+2023-03,"Prince Albert, Saskatchewan",47.96,Ecstasy (MDMA),Unprescribed
+2023-05,"Prince Albert, Saskatchewan",10.66,Ecstasy (MDMA),Unprescribed
+2022-03,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2022-04,"Prince Albert, Saskatchewan",0.14,Fentanyl (Norfentanyl),Prescribed
+2022-05,"Prince Albert, Saskatchewan",0.08,Fentanyl (Norfentanyl),Prescribed
+2022-06,"Prince Albert, Saskatchewan",0.1,Fentanyl (Norfentanyl),Prescribed
+2022-07,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2022-08,"Prince Albert, Saskatchewan",0.08,Fentanyl (Norfentanyl),Prescribed
+2022-09,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2022-10,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2022-11,"Prince Albert, Saskatchewan",0.26,Fentanyl (Norfentanyl),Prescribed
+2022-12,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2023-01,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2023-03,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2023-05,"Prince Albert, Saskatchewan",0.06,Fentanyl (Norfentanyl),Prescribed
+2022-03,"Prince Albert, Saskatchewan",86.96,Methadone,Prescribed
+2022-04,"Prince Albert, Saskatchewan",99.4,Methadone,Prescribed
+2022-05,"Prince Albert, Saskatchewan",102.18,Methadone,Prescribed
+2022-06,"Prince Albert, Saskatchewan",94.28,Methadone,Prescribed
+2022-07,"Prince Albert, Saskatchewan",85.08,Methadone,Prescribed
+2022-08,"Prince Albert, Saskatchewan",181.0,Methadone,Prescribed
+2022-09,"Prince Albert, Saskatchewan",95.74,Methadone,Prescribed
+2022-10,"Prince Albert, Saskatchewan",86.5,Methadone,Prescribed
+2022-11,"Prince Albert, Saskatchewan",76.52,Methadone,Prescribed
+2022-12,"Prince Albert, Saskatchewan",75.22,Methadone,Prescribed
+2023-01,"Prince Albert, Saskatchewan",84.82,Methadone,Prescribed
+2023-03,"Prince Albert, Saskatchewan",86.36,Methadone,Prescribed
+2023-05,"Prince Albert, Saskatchewan",84.54,Methadone,Prescribed
+2022-03,"Prince Albert, Saskatchewan",1126.58,Methamphetamine,Unprescribed
+2022-04,"Prince Albert, Saskatchewan",1472.8,Methamphetamine,Unprescribed
+2022-05,"Prince Albert, Saskatchewan",1741.8,Methamphetamine,Unprescribed
+2022-06,"Prince Albert, Saskatchewan",1256.44,Methamphetamine,Unprescribed
+2022-07,"Prince Albert, Saskatchewan",925.66,Methamphetamine,Unprescribed
+2022-08,"Prince Albert, Saskatchewan",1387.34,Methamphetamine,Unprescribed
+2022-09,"Prince Albert, Saskatchewan",1297.84,Methamphetamine,Unprescribed
+2022-10,"Prince Albert, Saskatchewan",1311.04,Methamphetamine,Unprescribed
+2022-11,"Prince Albert, Saskatchewan",1242.26,Methamphetamine,Unprescribed
+2022-12,"Prince Albert, Saskatchewan",2406.44,Methamphetamine,Unprescribed
+2023-01,"Prince Albert, Saskatchewan",1496.32,Methamphetamine,Unprescribed
+2023-03,"Prince Albert, Saskatchewan",1396.42,Methamphetamine,Unprescribed
+2023-05,"Prince Albert, Saskatchewan",1535.08,Methamphetamine,Unprescribed
+2022-03,"Prince Albert, Saskatchewan",112.04,Morphine,Prescribed
+2022-04,"Prince Albert, Saskatchewan",169.6,Morphine,Prescribed
+2022-05,"Prince Albert, Saskatchewan",176.0,Morphine,Prescribed
+2022-06,"Prince Albert, Saskatchewan",138.76,Morphine,Prescribed
+2022-07,"Prince Albert, Saskatchewan",147.56,Morphine,Prescribed
+2022-08,"Prince Albert, Saskatchewan",126.0,Morphine,Prescribed
+2022-09,"Prince Albert, Saskatchewan",139.1,Morphine,Prescribed
+2022-10,"Prince Albert, Saskatchewan",125.42,Morphine,Prescribed
+2022-11,"Prince Albert, Saskatchewan",131.02,Morphine,Prescribed
+2022-12,"Prince Albert, Saskatchewan",173.82,Morphine,Prescribed
+2023-01,"Prince Albert, Saskatchewan",116.72,Morphine,Prescribed
+2023-03,"Prince Albert, Saskatchewan",105.88,Morphine,Prescribed
+2023-05,"Prince Albert, Saskatchewan",160.04,Morphine,Prescribed
+2022-03,"Prince Albert, Saskatchewan",4.08,Oxycodone,Prescribed
+2022-04,"Prince Albert, Saskatchewan",2.5,Oxycodone,Prescribed
+2022-05,"Prince Albert, Saskatchewan",3.28,Oxycodone,Prescribed
+2022-06,"Prince Albert, Saskatchewan",3.44,Oxycodone,Prescribed
+2022-07,"Prince Albert, Saskatchewan",2.92,Oxycodone,Prescribed
+2022-08,"Prince Albert, Saskatchewan",4.28,Oxycodone,Prescribed
+2022-09,"Prince Albert, Saskatchewan",2.96,Oxycodone,Prescribed
+2022-10,"Prince Albert, Saskatchewan",4.66,Oxycodone,Prescribed
+2022-11,"Prince Albert, Saskatchewan",1.62,Oxycodone,Prescribed
+2022-12,"Prince Albert, Saskatchewan",2.5,Oxycodone,Prescribed
+2023-01,"Prince Albert, Saskatchewan",3.06,Oxycodone,Prescribed
+2023-03,"Prince Albert, Saskatchewan",3.28,Oxycodone,Prescribed
+2023-05,"Prince Albert, Saskatchewan",2.0,Oxycodone,Prescribed
+2022-03,"Edmonton, Alberta",168.22,Amphetamine,Unprescribed
+2022-04,"Edmonton, Alberta",145.98,Amphetamine,Unprescribed
+2022-05,"Edmonton, Alberta",145.72,Amphetamine,Unprescribed
+2022-06,"Edmonton, Alberta",258.0,Amphetamine,Unprescribed
+2022-07,"Edmonton, Alberta",112.56,Amphetamine,Unprescribed
+2022-08,"Edmonton, Alberta",155.8,Amphetamine,Unprescribed
+2022-09,"Edmonton, Alberta",114.72,Amphetamine,Unprescribed
+2022-10,"Edmonton, Alberta",148.72,Amphetamine,Unprescribed
+2022-11,"Edmonton, Alberta",184.08,Amphetamine,Unprescribed
+2022-12,"Edmonton, Alberta",179.96,Amphetamine,Unprescribed
+2023-01,"Edmonton, Alberta",117.82,Amphetamine,Unprescribed
+2023-03,"Edmonton, Alberta",139.66,Amphetamine,Unprescribed
+2023-05,"Edmonton, Alberta",137.62,Amphetamine,Unprescribed
+2022-03,"Edmonton, Alberta",634.5,Cannabis (THC-COOH),Prescribed
+2022-04,"Edmonton, Alberta",613.26,Cannabis (THC-COOH),Prescribed
+2022-05,"Edmonton, Alberta",481.82,Cannabis (THC-COOH),Prescribed
+2022-06,"Edmonton, Alberta",561.34,Cannabis (THC-COOH),Prescribed
+2022-07,"Edmonton, Alberta",575.36,Cannabis (THC-COOH),Prescribed
+2022-08,"Edmonton, Alberta",587.68,Cannabis (THC-COOH),Prescribed
+2022-09,"Edmonton, Alberta",469.56,Cannabis (THC-COOH),Prescribed
+2022-10,"Edmonton, Alberta",588.76,Cannabis (THC-COOH),Prescribed
+2022-11,"Edmonton, Alberta",574.82,Cannabis (THC-COOH),Prescribed
+2022-12,"Edmonton, Alberta",674.2,Cannabis (THC-COOH),Prescribed
+2023-01,"Edmonton, Alberta",459.26,Cannabis (THC-COOH),Prescribed
+2023-03,"Edmonton, Alberta",647.34,Cannabis (THC-COOH),Prescribed
+2023-05,"Edmonton, Alberta",769.86,Cannabis (THC-COOH),Prescribed
+2022-03,"Edmonton, Alberta",1110.82,Cocaine (Benzoylecgonine),Unprescribed
+2022-04,"Edmonton, Alberta",1049.44,Cocaine (Benzoylecgonine),Unprescribed
+2022-05,"Edmonton, Alberta",905.54,Cocaine (Benzoylecgonine),Unprescribed
+2022-06,"Edmonton, Alberta",929.16,Cocaine (Benzoylecgonine),Unprescribed
+2022-07,"Edmonton, Alberta",1121.4,Cocaine (Benzoylecgonine),Unprescribed
+2022-08,"Edmonton, Alberta",1061.48,Cocaine (Benzoylecgonine),Unprescribed
+2022-09,"Edmonton, Alberta",898.58,Cocaine (Benzoylecgonine),Unprescribed
+2022-10,"Edmonton, Alberta",1042.76,Cocaine (Benzoylecgonine),Unprescribed
+2022-11,"Edmonton, Alberta",1101.26,Cocaine (Benzoylecgonine),Unprescribed
+2022-12,"Edmonton, Alberta",1172.94,Cocaine (Benzoylecgonine),Unprescribed
+2023-01,"Edmonton, Alberta",932.34,Cocaine (Benzoylecgonine),Unprescribed
+2023-03,"Edmonton, Alberta",1173.36,Cocaine (Benzoylecgonine),Unprescribed
+2023-05,"Edmonton, Alberta",1099.82,Cocaine (Benzoylecgonine),Unprescribed
+2022-03,"Edmonton, Alberta",699.86,Codeine,Prescribed
+2022-04,"Edmonton, Alberta",517.34,Codeine,Prescribed
+2022-05,"Edmonton, Alberta",492.26,Codeine,Prescribed
+2022-06,"Edmonton, Alberta",491.84,Codeine,Prescribed
+2022-07,"Edmonton, Alberta",617.48,Codeine,Prescribed
+2022-08,"Edmonton, Alberta",552.54,Codeine,Prescribed
+2022-09,"Edmonton, Alberta",492.32,Codeine,Prescribed
+2022-10,"Edmonton, Alberta",504.4,Codeine,Prescribed
+2022-11,"Edmonton, Alberta",557.36,Codeine,Prescribed
+2022-12,"Edmonton, Alberta",540.94,Codeine,Prescribed
+2023-01,"Edmonton, Alberta",495.06,Codeine,Prescribed
+2023-03,"Edmonton, Alberta",417.88,Codeine,Prescribed
+2023-05,"Edmonton, Alberta",449.5,Codeine,Prescribed
+2022-03,"Edmonton, Alberta",16.96,Ecstasy (MDMA),Unprescribed
+2022-04,"Edmonton, Alberta",26.0,Ecstasy (MDMA),Unprescribed
+2022-05,"Edmonton, Alberta",15.8,Ecstasy (MDMA),Unprescribed
+2022-06,"Edmonton, Alberta",10.1,Ecstasy (MDMA),Unprescribed
+2022-07,"Edmonton, Alberta",19.36,Ecstasy (MDMA),Unprescribed
+2022-08,"Edmonton, Alberta",18.3,Ecstasy (MDMA),Unprescribed
+2022-09,"Edmonton, Alberta",15.0,Ecstasy (MDMA),Unprescribed
+2022-10,"Edmonton, Alberta",23.12,Ecstasy (MDMA),Unprescribed
+2022-11,"Edmonton, Alberta",19.42,Ecstasy (MDMA),Unprescribed
+2022-12,"Edmonton, Alberta",18.84,Ecstasy (MDMA),Unprescribed
+2023-01,"Edmonton, Alberta",15.6,Ecstasy (MDMA),Unprescribed
+2023-03,"Edmonton, Alberta",23.5,Ecstasy (MDMA),Unprescribed
+2023-05,"Edmonton, Alberta",13.96,Ecstasy (MDMA),Unprescribed
+2022-03,"Edmonton, Alberta",3.5,Fentanyl (Norfentanyl),Prescribed
+2022-04,"Edmonton, Alberta",6.04,Fentanyl (Norfentanyl),Prescribed
+2022-05,"Edmonton, Alberta",5.1,Fentanyl (Norfentanyl),Prescribed
+2022-06,"Edmonton, Alberta",5.54,Fentanyl (Norfentanyl),Prescribed
+2022-07,"Edmonton, Alberta",5.98,Fentanyl (Norfentanyl),Prescribed
+2022-08,"Edmonton, Alberta",5.72,Fentanyl (Norfentanyl),Prescribed
+2022-09,"Edmonton, Alberta",4.36,Fentanyl (Norfentanyl),Prescribed
+2022-10,"Edmonton, Alberta",8.04,Fentanyl (Norfentanyl),Prescribed
+2022-11,"Edmonton, Alberta",9.22,Fentanyl (Norfentanyl),Prescribed
+2022-12,"Edmonton, Alberta",9.28,Fentanyl (Norfentanyl),Prescribed
+2023-01,"Edmonton, Alberta",5.82,Fentanyl (Norfentanyl),Prescribed
+2023-03,"Edmonton, Alberta",4.16,Fentanyl (Norfentanyl),Prescribed
+2023-05,"Edmonton, Alberta",3.86,Fentanyl (Norfentanyl),Prescribed
+2022-03,"Edmonton, Alberta",25.42,Methadone,Prescribed
+2022-04,"Edmonton, Alberta",18.94,Methadone,Prescribed
+2022-05,"Edmonton, Alberta",17.04,Methadone,Prescribed
+2022-06,"Edmonton, Alberta",17.22,Methadone,Prescribed
+2022-07,"Edmonton, Alberta",20.52,Methadone,Prescribed
+2022-08,"Edmonton, Alberta",19.28,Methadone,Prescribed
+2022-09,"Edmonton, Alberta",21.38,Methadone,Prescribed
+2022-10,"Edmonton, Alberta",16.28,Methadone,Prescribed
+2022-11,"Edmonton, Alberta",17.72,Methadone,Prescribed
+2022-12,"Edmonton, Alberta",16.52,Methadone,Prescribed
+2023-01,"Edmonton, Alberta",14.8,Methadone,Prescribed
+2023-03,"Edmonton, Alberta",15.66,Methadone,Prescribed
+2023-05,"Edmonton, Alberta",18.26,Methadone,Prescribed
+2022-03,"Edmonton, Alberta",935.36,Methamphetamine,Unprescribed
+2022-04,"Edmonton, Alberta",747.66,Methamphetamine,Unprescribed
+2022-05,"Edmonton, Alberta",695.88,Methamphetamine,Unprescribed
+2022-06,"Edmonton, Alberta",692.14,Methamphetamine,Unprescribed
+2022-07,"Edmonton, Alberta",764.36,Methamphetamine,Unprescribed
+2022-08,"Edmonton, Alberta",772.22,Methamphetamine,Unprescribed
+2022-09,"Edmonton, Alberta",562.3,Methamphetamine,Unprescribed
+2022-10,"Edmonton, Alberta",739.5,Methamphetamine,Unprescribed
+2022-11,"Edmonton, Alberta",777.56,Methamphetamine,Unprescribed
+2022-12,"Edmonton, Alberta",732.8,Methamphetamine,Unprescribed
+2023-01,"Edmonton, Alberta",627.3,Methamphetamine,Unprescribed
+2023-03,"Edmonton, Alberta",837.28,Methamphetamine,Unprescribed
+2023-05,"Edmonton, Alberta",725.84,Methamphetamine,Unprescribed
+2022-03,"Edmonton, Alberta",163.8,Morphine,Prescribed
+2022-04,"Edmonton, Alberta",144.44,Morphine,Prescribed
+2022-05,"Edmonton, Alberta",133.3,Morphine,Prescribed
+2022-06,"Edmonton, Alberta",113.8,Morphine,Prescribed
+2022-07,"Edmonton, Alberta",156.06,Morphine,Prescribed
+2022-08,"Edmonton, Alberta",140.78,Morphine,Prescribed
+2022-09,"Edmonton, Alberta",69.96,Morphine,Prescribed
+2022-10,"Edmonton, Alberta",127.7,Morphine,Prescribed
+2022-11,"Edmonton, Alberta",145.56,Morphine,Prescribed
+2022-12,"Edmonton, Alberta",151.88,Morphine,Prescribed
+2023-01,"Edmonton, Alberta",106.08,Morphine,Prescribed
+2023-03,"Edmonton, Alberta",133.5,Morphine,Prescribed
+2023-05,"Edmonton, Alberta",138.56,Morphine,Prescribed
+2022-03,"Edmonton, Alberta",17.9,Oxycodone,Prescribed
+2022-04,"Edmonton, Alberta",13.06,Oxycodone,Prescribed
+2022-05,"Edmonton, Alberta",11.58,Oxycodone,Prescribed
+2022-06,"Edmonton, Alberta",6.36,Oxycodone,Prescribed
+2022-07,"Edmonton, Alberta",18.56,Oxycodone,Prescribed
+2022-08,"Edmonton, Alberta",14.94,Oxycodone,Prescribed
+2022-09,"Edmonton, Alberta",9.42,Oxycodone,Prescribed
+2022-10,"Edmonton, Alberta",15.7,Oxycodone,Prescribed
+2022-11,"Edmonton, Alberta",19.16,Oxycodone,Prescribed
+2022-12,"Edmonton, Alberta",19.46,Oxycodone,Prescribed
+2023-01,"Edmonton, Alberta",12.78,Oxycodone,Prescribed
+2023-03,"Edmonton, Alberta",17.68,Oxycodone,Prescribed
+2023-05,"Edmonton, Alberta",18.66,Oxycodone,Prescribed
+2022-03,"Vancouver, British Columbia",102.34,Amphetamine,Unprescribed
+2022-04,"Vancouver, British Columbia",115.36,Amphetamine,Unprescribed
+2022-05,"Vancouver, British Columbia",101.58,Amphetamine,Unprescribed
+2022-06,"Vancouver, British Columbia",113.18,Amphetamine,Unprescribed
+2022-07,"Vancouver, British Columbia",104.22,Amphetamine,Unprescribed
+2022-08,"Vancouver, British Columbia",105.04,Amphetamine,Unprescribed
+2022-09,"Vancouver, British Columbia",95.22,Amphetamine,Unprescribed
+2022-10,"Vancouver, British Columbia",97.26,Amphetamine,Unprescribed
+2022-11,"Vancouver, British Columbia",103.24,Amphetamine,Unprescribed
+2022-12,"Vancouver, British Columbia",108.62,Amphetamine,Unprescribed
+2023-01,"Vancouver, British Columbia",125.94,Amphetamine,Unprescribed
+2023-03,"Vancouver, British Columbia",90.92,Amphetamine,Unprescribed
+2023-05,"Vancouver, British Columbia",84.2,Amphetamine,Unprescribed
+2022-03,"Vancouver, British Columbia",383.2,Cannabis (THC-COOH),Prescribed
+2022-04,"Vancouver, British Columbia",416.64,Cannabis (THC-COOH),Prescribed
+2022-05,"Vancouver, British Columbia",470.88,Cannabis (THC-COOH),Prescribed
+2022-06,"Vancouver, British Columbia",519.32,Cannabis (THC-COOH),Prescribed
+2022-07,"Vancouver, British Columbia",545.6,Cannabis (THC-COOH),Prescribed
+2022-08,"Vancouver, British Columbia",457.6,Cannabis (THC-COOH),Prescribed
+2022-09,"Vancouver, British Columbia",448.64,Cannabis (THC-COOH),Prescribed
+2022-10,"Vancouver, British Columbia",481.74,Cannabis (THC-COOH),Prescribed
+2022-11,"Vancouver, British Columbia",477.12,Cannabis (THC-COOH),Prescribed
+2022-12,"Vancouver, British Columbia",467.12,Cannabis (THC-COOH),Prescribed
+2023-01,"Vancouver, British Columbia",403.06,Cannabis (THC-COOH),Prescribed
+2023-03,"Vancouver, British Columbia",475.26,Cannabis (THC-COOH),Prescribed
+2023-05,"Vancouver, British Columbia",482.36,Cannabis (THC-COOH),Prescribed
+2022-03,"Vancouver, British Columbia",926.52,Cocaine (Benzoylecgonine),Unprescribed
+2022-04,"Vancouver, British Columbia",999.28,Cocaine (Benzoylecgonine),Unprescribed
+2022-05,"Vancouver, British Columbia",961.32,Cocaine (Benzoylecgonine),Unprescribed
+2022-06,"Vancouver, British Columbia",1010.98,Cocaine (Benzoylecgonine),Unprescribed
+2022-07,"Vancouver, British Columbia",993.06,Cocaine (Benzoylecgonine),Unprescribed
+2022-08,"Vancouver, British Columbia",967.98,Cocaine (Benzoylecgonine),Unprescribed
+2022-09,"Vancouver, British Columbia",1023.16,Cocaine (Benzoylecgonine),Unprescribed
+2022-10,"Vancouver, British Columbia",979.02,Cocaine (Benzoylecgonine),Unprescribed
+2022-11,"Vancouver, British Columbia",990.22,Cocaine (Benzoylecgonine),Unprescribed
+2022-12,"Vancouver, British Columbia",1057.44,Cocaine (Benzoylecgonine),Unprescribed
+2023-01,"Vancouver, British Columbia",960.04,Cocaine (Benzoylecgonine),Unprescribed
+2023-03,"Vancouver, British Columbia",1080.8,Cocaine (Benzoylecgonine),Unprescribed
+2023-05,"Vancouver, British Columbia",1032.8,Cocaine (Benzoylecgonine),Unprescribed
+2022-03,"Vancouver, British Columbia",259.98,Codeine,Prescribed
+2022-04,"Vancouver, British Columbia",265.14,Codeine,Prescribed
+2022-05,"Vancouver, British Columbia",279.72,Codeine,Prescribed
+2022-06,"Vancouver, British Columbia",282.66,Codeine,Prescribed
+2022-07,"Vancouver, British Columbia",288.96,Codeine,Prescribed
+2022-08,"Vancouver, British Columbia",278.4,Codeine,Prescribed
+2022-09,"Vancouver, British Columbia",285.2,Codeine,Prescribed
+2022-10,"Vancouver, British Columbia",313.58,Codeine,Prescribed
+2022-11,"Vancouver, British Columbia",245.16,Codeine,Prescribed
+2022-12,"Vancouver, British Columbia",237.52,Codeine,Prescribed
+2023-01,"Vancouver, British Columbia",198.26,Codeine,Prescribed
+2023-03,"Vancouver, British Columbia",217.08,Codeine,Prescribed
+2023-05,"Vancouver, British Columbia",261.76,Codeine,Prescribed
+2022-03,"Vancouver, British Columbia",40.56,Ecstasy (MDMA),Unprescribed
+2022-04,"Vancouver, British Columbia",57.1,Ecstasy (MDMA),Unprescribed
+2022-05,"Vancouver, British Columbia",34.4,Ecstasy (MDMA),Unprescribed
+2022-06,"Vancouver, British Columbia",37.9,Ecstasy (MDMA),Unprescribed
+2022-07,"Vancouver, British Columbia",57.24,Ecstasy (MDMA),Unprescribed
+2022-08,"Vancouver, British Columbia",52.18,Ecstasy (MDMA),Unprescribed
+2022-09,"Vancouver, British Columbia",62.46,Ecstasy (MDMA),Unprescribed
+2022-10,"Vancouver, British Columbia",90.88,Ecstasy (MDMA),Unprescribed
+2022-11,"Vancouver, British Columbia",46.98,Ecstasy (MDMA),Unprescribed
+2022-12,"Vancouver, British Columbia",72.68,Ecstasy (MDMA),Unprescribed
+2023-01,"Vancouver, British Columbia",63.96,Ecstasy (MDMA),Unprescribed
+2023-03,"Vancouver, British Columbia",33.1,Ecstasy (MDMA),Unprescribed
+2023-05,"Vancouver, British Columbia",34.68,Ecstasy (MDMA),Unprescribed
+2022-03,"Vancouver, British Columbia",41.52,Fentanyl (Norfentanyl),Prescribed
+2022-04,"Vancouver, British Columbia",43.32,Fentanyl (Norfentanyl),Prescribed
+2022-05,"Vancouver, British Columbia",44.42,Fentanyl (Norfentanyl),Prescribed
+2022-06,"Vancouver, British Columbia",46.4,Fentanyl (Norfentanyl),Prescribed
+2022-07,"Vancouver, British Columbia",43.82,Fentanyl (Norfentanyl),Prescribed
+2022-08,"Vancouver, British Columbia",45.42,Fentanyl (Norfentanyl),Prescribed
+2022-09,"Vancouver, British Columbia",39.7,Fentanyl (Norfentanyl),Prescribed
+2022-10,"Vancouver, British Columbia",39.06,Fentanyl (Norfentanyl),Prescribed
+2022-11,"Vancouver, British Columbia",38.26,Fentanyl (Norfentanyl),Prescribed
+2022-12,"Vancouver, British Columbia",39.42,Fentanyl (Norfentanyl),Prescribed
+2023-01,"Vancouver, British Columbia",43.18,Fentanyl (Norfentanyl),Prescribed
+2023-03,"Vancouver, British Columbia",37.9,Fentanyl (Norfentanyl),Prescribed
+2023-05,"Vancouver, British Columbia",35.72,Fentanyl (Norfentanyl),Prescribed
+2022-03,"Vancouver, British Columbia",57.08,Methadone,Prescribed
+2022-04,"Vancouver, British Columbia",60.54,Methadone,Prescribed
+2022-05,"Vancouver, British Columbia",49.54,Methadone,Prescribed
+2022-06,"Vancouver, British Columbia",44.46,Methadone,Prescribed
+2022-07,"Vancouver, British Columbia",47.46,Methadone,Prescribed
+2022-08,"Vancouver, British Columbia",48.8,Methadone,Prescribed
+2022-09,"Vancouver, British Columbia",47.18,Methadone,Prescribed
+2022-10,"Vancouver, British Columbia",40.5,Methadone,Prescribed
+2022-11,"Vancouver, British Columbia",44.96,Methadone,Prescribed
+2022-12,"Vancouver, British Columbia",46.88,Methadone,Prescribed
+2023-01,"Vancouver, British Columbia",43.0,Methadone,Prescribed
+2023-03,"Vancouver, British Columbia",47.64,Methadone,Prescribed
+2023-05,"Vancouver, British Columbia",40.1,Methadone,Prescribed
+2022-03,"Vancouver, British Columbia",539.34,Methamphetamine,Unprescribed
+2022-04,"Vancouver, British Columbia",658.14,Methamphetamine,Unprescribed
+2022-05,"Vancouver, British Columbia",531.6,Methamphetamine,Unprescribed
+2022-06,"Vancouver, British Columbia",456.42,Methamphetamine,Unprescribed
+2022-07,"Vancouver, British Columbia",484.9,Methamphetamine,Unprescribed
+2022-08,"Vancouver, British Columbia",451.38,Methamphetamine,Unprescribed
+2022-09,"Vancouver, British Columbia",476.48,Methamphetamine,Unprescribed
+2022-10,"Vancouver, British Columbia",420.12,Methamphetamine,Unprescribed
+2022-11,"Vancouver, British Columbia",522.24,Methamphetamine,Unprescribed
+2022-12,"Vancouver, British Columbia",482.3,Methamphetamine,Unprescribed
+2023-01,"Vancouver, British Columbia",478.4,Methamphetamine,Unprescribed
+2023-03,"Vancouver, British Columbia",481.9,Methamphetamine,Unprescribed
+2023-05,"Vancouver, British Columbia",420.7,Methamphetamine,Unprescribed
+2022-03,"Vancouver, British Columbia",268.8,Morphine,Prescribed
+2022-04,"Vancouver, British Columbia",310.0,Morphine,Prescribed
+2022-05,"Vancouver, British Columbia",309.96,Morphine,Prescribed
+2022-06,"Vancouver, British Columbia",301.44,Morphine,Prescribed
+2022-07,"Vancouver, British Columbia",317.26,Morphine,Prescribed
+2022-08,"Vancouver, British Columbia",315.0,Morphine,Prescribed
+2022-09,"Vancouver, British Columbia",313.4,Morphine,Prescribed
+2022-10,"Vancouver, British Columbia",322.44,Morphine,Prescribed
+2022-11,"Vancouver, British Columbia",315.44,Morphine,Prescribed
+2022-12,"Vancouver, British Columbia",310.66,Morphine,Prescribed
+2023-01,"Vancouver, British Columbia",293.38,Morphine,Prescribed
+2023-03,"Vancouver, British Columbia",324.24,Morphine,Prescribed
+2023-05,"Vancouver, British Columbia",329.98,Morphine,Prescribed
+2022-03,"Vancouver, British Columbia",1.92,Oxycodone,Prescribed
+2022-04,"Vancouver, British Columbia",2.52,Oxycodone,Prescribed
+2022-05,"Vancouver, British Columbia",2.9,Oxycodone,Prescribed
+2022-06,"Vancouver, British Columbia",2.12,Oxycodone,Prescribed
+2022-07,"Vancouver, British Columbia",3.18,Oxycodone,Prescribed
+2022-08,"Vancouver, British Columbia",3.78,Oxycodone,Prescribed
+2022-09,"Vancouver, British Columbia",3.18,Oxycodone,Prescribed
+2022-10,"Vancouver, British Columbia",4.4,Oxycodone,Prescribed
+2022-11,"Vancouver, British Columbia",3.66,Oxycodone,Prescribed
+2022-12,"Vancouver, British Columbia",3.68,Oxycodone,Prescribed
+2023-01,"Vancouver, British Columbia",2.64,Oxycodone,Prescribed
+2023-03,"Vancouver, British Columbia",3.72,Oxycodone,Prescribed
+2023-05,"Vancouver, British Columbia",3.96,Oxycodone,Prescribed
